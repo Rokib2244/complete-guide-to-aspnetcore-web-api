@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\my-books\\my-books\\my-books.csproj": {}
+    "F:\\complete-guide-to-aspnetcore-web-api\\my-books\\my-books.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\my-books\\my-books\\my-books.csproj": {
+    "F:\\complete-guide-to-aspnetcore-web-api\\my-books\\my-books.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\my-books\\my-books\\my-books.csproj",
+        "projectUniqueName": "F:\\complete-guide-to-aspnetcore-web-api\\my-books\\my-books.csproj",
         "projectName": "my-books",
-        "projectPath": "C:\\Users\\user\\source\\repos\\my-books\\my-books\\my-books.csproj",
+        "projectPath": "F:\\complete-guide-to-aspnetcore-web-api\\my-books\\my-books.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\my-books\\my-books\\obj\\",
+        "outputPath": "F:\\complete-guide-to-aspnetcore-web-api\\my-books\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
